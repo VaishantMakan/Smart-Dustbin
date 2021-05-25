@@ -4,7 +4,7 @@ The main concept behind the Smart Dustbin using Arduino project is Object Detect
 
 ## Preview
 
-https://user-images.githubusercontent.com/56248007/119520091-9906c080-bd97-11eb-9cd6-5be8d8a2b13c.mp4
+https://user-images.githubusercontent.com/56248007/119532251-57c7de00-bda2-11eb-8eb4-643510d9d73d.mp4
 
 ## Components used
 
